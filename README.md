@@ -3,7 +3,7 @@
 ## Analyzing Sales Data
 By analyzing sales data using SQL, businesses can gain insights into their sales performance, identify areas for improvement, and make data|driven decisions to increase revenue and profitability.
 
-**Dataset:** Use the Walmart Sales Dataset available on Kaggle for this project that contains the following variables:
+**Data Description:** Use the Walmart Sales Dataset available on Kaggle for this project that contains the following variables:
 | Variable | Definition |
 |--|--|
 | Store | the store number |
